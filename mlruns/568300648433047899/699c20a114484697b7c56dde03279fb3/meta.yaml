@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/699c20a114484697b7c56dde03279fb3/artifacts
+end_time: 1784218430669
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: 699c20a114484697b7c56dde03279fb3
+run_name: casual-kite-926
+run_uuid: 699c20a114484697b7c56dde03279fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218427347
+status: 3
+tags: []
+user_id: somasricharan

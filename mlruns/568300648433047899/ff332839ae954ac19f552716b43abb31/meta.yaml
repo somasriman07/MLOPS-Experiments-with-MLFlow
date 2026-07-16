@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/ff332839ae954ac19f552716b43abb31/artifacts
+end_time: 1784218323032
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: ff332839ae954ac19f552716b43abb31
+run_name: dapper-fowl-388
+run_uuid: ff332839ae954ac19f552716b43abb31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218319797
+status: 3
+tags: []
+user_id: somasricharan

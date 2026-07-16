@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/de2731febcd14f6b9919ce7998768f1c/artifacts
+end_time: 1784218350704
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: de2731febcd14f6b9919ce7998768f1c
+run_name: unruly-horse-569
+run_uuid: de2731febcd14f6b9919ce7998768f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218347596
+status: 3
+tags: []
+user_id: somasricharan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/af376804678147b88ddf3302b9585331/artifacts
+end_time: 1784218179891
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: af376804678147b88ddf3302b9585331
+run_name: whimsical-deer-541
+run_uuid: af376804678147b88ddf3302b9585331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218176447
+status: 3
+tags: []
+user_id: somasricharan

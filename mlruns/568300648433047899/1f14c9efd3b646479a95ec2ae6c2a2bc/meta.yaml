@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/1f14c9efd3b646479a95ec2ae6c2a2bc/artifacts
+end_time: 1784218381720
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: 1f14c9efd3b646479a95ec2ae6c2a2bc
+run_name: aged-deer-379
+run_uuid: 1f14c9efd3b646479a95ec2ae6c2a2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218378466
+status: 3
+tags: []
+user_id: somasricharan

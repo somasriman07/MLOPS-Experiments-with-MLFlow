@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568300648433047899/48b1276fee674a529806714e8641f391/artifacts
+end_time: 1784218398333
+entry_point_name: ''
+experiment_id: '568300648433047899'
+lifecycle_stage: active
+run_id: 48b1276fee674a529806714e8641f391
+run_name: receptive-rat-230
+run_uuid: 48b1276fee674a529806714e8641f391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784218395174
+status: 3
+tags: []
+user_id: somasricharan

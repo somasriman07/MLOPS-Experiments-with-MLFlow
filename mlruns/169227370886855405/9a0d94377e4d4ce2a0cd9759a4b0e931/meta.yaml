@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/9a0d94377e4d4ce2a0cd9759a4b0e931/artifacts
+end_time: 1784262392245
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 9a0d94377e4d4ce2a0cd9759a4b0e931
+run_name: secretive-shrike-589
+run_uuid: 9a0d94377e4d4ce2a0cd9759a4b0e931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262384264
+status: 3
+tags: []
+user_id: somasricharan

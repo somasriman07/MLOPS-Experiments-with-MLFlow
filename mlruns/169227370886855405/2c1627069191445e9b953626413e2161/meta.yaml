@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/2c1627069191445e9b953626413e2161/artifacts
+end_time: 1784262388744
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 2c1627069191445e9b953626413e2161
+run_name: able-bear-921
+run_uuid: 2c1627069191445e9b953626413e2161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388738
+status: 3
+tags: []
+user_id: somasricharan

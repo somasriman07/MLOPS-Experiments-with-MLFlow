@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/ed327e2e75594b70bd36c918216e3066/artifacts
+end_time: 1784262388731
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: ed327e2e75594b70bd36c918216e3066
+run_name: lyrical-ape-992
+run_uuid: ed327e2e75594b70bd36c918216e3066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388726
+status: 3
+tags: []
+user_id: somasricharan

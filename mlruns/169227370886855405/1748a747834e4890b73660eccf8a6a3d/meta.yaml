@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/1748a747834e4890b73660eccf8a6a3d/artifacts
+end_time: 1784262388719
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 1748a747834e4890b73660eccf8a6a3d
+run_name: wistful-midge-334
+run_uuid: 1748a747834e4890b73660eccf8a6a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388715
+status: 3
+tags: []
+user_id: somasricharan

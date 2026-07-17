@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/6b4829f57428436db82b9363b795cbd6/artifacts
+end_time: 1784262388757
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 6b4829f57428436db82b9363b795cbd6
+run_name: angry-pug-280
+run_uuid: 6b4829f57428436db82b9363b795cbd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388751
+status: 3
+tags: []
+user_id: somasricharan

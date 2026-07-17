@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/63c4d7b5077d4817892e3653f1ca25c7/artifacts
+end_time: 1784262388781
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 63c4d7b5077d4817892e3653f1ca25c7
+run_name: wise-shark-763
+run_uuid: 63c4d7b5077d4817892e3653f1ca25c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388770
+status: 3
+tags: []
+user_id: somasricharan

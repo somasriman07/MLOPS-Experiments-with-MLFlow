@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/911820d2ef96439089b876f99dd97b05/artifacts
+end_time: 1784262388725
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 911820d2ef96439089b876f99dd97b05
+run_name: blushing-steed-292
+run_uuid: 911820d2ef96439089b876f99dd97b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388720
+status: 3
+tags: []
+user_id: somasricharan

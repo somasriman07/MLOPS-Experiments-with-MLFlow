@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/b75b0ca5dfcf435fa1b49aa1a9e80389/artifacts
+end_time: 1784262388770
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: b75b0ca5dfcf435fa1b49aa1a9e80389
+run_name: big-zebra-491
+run_uuid: b75b0ca5dfcf435fa1b49aa1a9e80389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388764
+status: 3
+tags: []
+user_id: somasricharan

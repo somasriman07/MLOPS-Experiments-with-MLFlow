@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/somasricharan/YT_MLOPS/MLOPS-Experiments-with-MLFlow/mlruns/169227370886855405/1952153bbae64583884e6dc16d1d798f/artifacts
+end_time: 1784262388737
+entry_point_name: ''
+experiment_id: '169227370886855405'
+lifecycle_stage: active
+run_id: 1952153bbae64583884e6dc16d1d798f
+run_name: kindly-cat-817
+run_uuid: 1952153bbae64583884e6dc16d1d798f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784262388732
+status: 3
+tags: []
+user_id: somasricharan
